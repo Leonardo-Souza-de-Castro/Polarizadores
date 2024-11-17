@@ -11,6 +11,8 @@ _____________________________________________________
 |___________________________________________________|
 """)
 
+print("Este projeto tem o intuito de calcular Intensidade de luz após ela passar por polarizadores ou a luz inicial (tanto para luzes polarizadas como não polarizadas), sendo considerado casos com 2 polarizadores e 3. As informações que usaremos de entrada são a Intensidade em algum ponto do circuito e os angulos dos polarizadores e buscaremos ter como saida as demais intensidades do circuito podendo ser desde a luz inicial até a final passando por tudo, além dos pontos intermediarios.")
+
 resposta = int(input("""
 Digite qual opção você gostaria de seguir:
 
