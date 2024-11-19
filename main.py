@@ -6,7 +6,7 @@ _____________________________________________________
 |                   Autores:                        |
 |                                                   |
 |   Bianca Silva Oliveira - R.A: 22.123.113-7       |
-|   Felipe Brum Pereira - R.A: 22.123.012-9         |
+|   Felipe Brum Pereira - R.A: 22.123.112-9         |
 |   Leonardo Souza de Castro - R.A: 22.123.114-5    |
 |___________________________________________________|
 """)
